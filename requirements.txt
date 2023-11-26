@@ -1,0 +1,9 @@
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
+keras
+torch
+tensorflow
+tensorflow_probability 
